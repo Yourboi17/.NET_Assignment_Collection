@@ -1,0 +1,12 @@
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\bin\Debug\Display Series 1, 4, 9, 16, 25, 36.exe.config
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\bin\Debug\Display Series 1, 4, 9, 16, 25, 36.exe
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\bin\Debug\Display Series 1, 4, 9, 16, 25, 36.pdb
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\bin\Debug\Display Series 1, 4, 9, 16, 25, 36.xml
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\obj\Debug\Display Series 1, 4, 9, 16, 25, 36.vbproj.AssemblyReference.cache
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\obj\Debug\Display_Series_1__4__9__16__25__36.Form1.resources
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\obj\Debug\Display_Series_1__4__9__16__25__36.Resources.resources
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\obj\Debug\Display Series 1, 4, 9, 16, 25, 36.vbproj.GenerateResource.cache
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\obj\Debug\Display Series 1, 4, 9, 16, 25, 36.vbproj.CoreCompileInputs.cache
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\obj\Debug\Display Series 1, 4, 9, 16, 25, 36.exe
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\obj\Debug\Display Series 1, 4, 9, 16, 25, 36.xml
+C:\Users\rajhu\source\repos\Display Series 1, 4, 9, 16, 25, 36\Display Series 1, 4, 9, 16, 25, 36\obj\Debug\Display Series 1, 4, 9, 16, 25, 36.pdb

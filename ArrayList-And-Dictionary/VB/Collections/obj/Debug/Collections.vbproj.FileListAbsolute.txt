@@ -1,0 +1,11 @@
+C:\Users\rajhu\source\repos\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\rajhu\source\repos\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\rajhu\source\repos\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\rajhu\source\repos\Collections\Collections\bin\Debug\Collections.xml
+C:\Users\rajhu\source\repos\Collections\Collections\obj\Debug\Collections.vbproj.AssemblyReference.cache
+C:\Users\rajhu\source\repos\Collections\Collections\obj\Debug\Collections.Resources.resources
+C:\Users\rajhu\source\repos\Collections\Collections\obj\Debug\Collections.vbproj.GenerateResource.cache
+C:\Users\rajhu\source\repos\Collections\Collections\obj\Debug\Collections.vbproj.CoreCompileInputs.cache
+C:\Users\rajhu\source\repos\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\rajhu\source\repos\Collections\Collections\obj\Debug\Collections.xml
+C:\Users\rajhu\source\repos\Collections\Collections\obj\Debug\Collections.pdb

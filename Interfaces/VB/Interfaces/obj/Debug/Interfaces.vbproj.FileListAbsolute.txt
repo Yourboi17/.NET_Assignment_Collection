@@ -1,0 +1,11 @@
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\bin\Debug\Interfaces.xml
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.vbproj.AssemblyReference.cache
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.Resources.resources
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.vbproj.GenerateResource.cache
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.vbproj.CoreCompileInputs.cache
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.xml
+C:\Users\rajhu\source\repos\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

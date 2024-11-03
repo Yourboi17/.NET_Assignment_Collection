@@ -1,0 +1,17 @@
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\bin\Debug\net8.0-windows\EvenOddApp.exe
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\bin\Debug\net8.0-windows\EvenOddApp.deps.json
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\bin\Debug\net8.0-windows\EvenOddApp.runtimeconfig.json
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\bin\Debug\net8.0-windows\EvenOddApp.dll
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\bin\Debug\net8.0-windows\EvenOddApp.pdb
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.Form1.resources
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.Resources.resources
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.vbproj.GenerateResource.cache
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.AssemblyInfoInputs.cache
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.AssemblyInfo.vb
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.vbproj.CoreCompileInputs.cache
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.dll
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\refint\EvenOddApp.dll
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.pdb
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\EvenOddApp.genruntimeconfig.cache
+C:\Users\rajhu\source\repos\EvenOddApp\EvenOddApp\obj\Debug\net8.0-windows\ref\EvenOddApp.dll

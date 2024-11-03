@@ -1,0 +1,10 @@
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe.config
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.pdb
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.AssemblyReference.cache
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.Properties.Resources.resources
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.GenerateResource.cache
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.exe
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.pdb
+C:\Users\rajhu\source\repos\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.btnClear.resources
